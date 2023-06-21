@@ -1,6 +1,12 @@
 
-.origin{
+body{
     background-color: black;
+}
+
+.origin{
+
+    width: 50%;
+    margin-left: 25%;
     
 }
 
@@ -14,15 +20,15 @@
 #para{
     color: white;
     text-align: center;
-    margin-top: 300px;
-    padding-bottom: 700px;
+    /* margin-top: 300px;
+    padding-bottom: 700px; */
 }
 
 #Naruto{
     border: 5px solid gold;
     width: 500px;
     height: 300px;
-    margin-left: 400px;
+    margin-left: 100px;
     margin-top: 100px;
     
 
